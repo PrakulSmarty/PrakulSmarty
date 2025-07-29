@@ -1,16 +1,56 @@
-## Hi there 👋
+## 👋 Hi, I'm Prakul Patel  
+🎯 **Data Scientist | ML Engineer | Problem Solver | Tech Enthusiast**
 
-<!--
-**PrakulSmarty/prakulsmarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Artificial Intelligence & Machine Learning** from VIT Bhopal  
+💼 Passionate about building scalable ML pipelines, real-world analytics systems, and smart automation tools  
+🧠 Focused on solving challenging problems using **Data Science**, **ML/DL**, and **Generative AI**  
+📫 **Get in touch**: [prakulpatel3012@gmail.com](mailto:work.prakulpatel@gmail.com) | [LinkedIn](https://linkedin.com/in/prakulpatel)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies  
+
+**Languages & Programming:**  
+`Python` | `SQL` | `R` | `C++` | `OOPs` | `Bash`
+
+**ML & Data Science:**  
+`scikit-learn` | `pandas` | `numpy` | `matplotlib` | `seaborn` | `OpenCV` | `XGBoost` | `NLTK` | `Prophet`  
+`EDA` | `Supervised/Unsupervised ML` | `Time Series Forecasting` | `Model Evaluation` | `Clustering` | `NLP`  
+
+**Deep Learning & Generative AI:**  
+`TensorFlow` | `PyTorch` | `CNNs` | `MLPs` | `Autoencoders` | `Transfer Learning` | `Hugging Face`
+
+**Tools & Platforms:**  
+`Git` | `Jupyter` | `Tableau` | `Power BI` | `Docker` | `Google Colab` | `Streamlit`  
+`Azure` (basics) | `Kaleido` | `Plotly` | `Flask`
+
+**Databases:**  
+`MySQL` | `PostgreSQL` | `MongoDB`
+
+---
+
+### 📌 Featured Projects
+
+🧠 **Deepfake Detection**  
+Comparative study of deep learning models on real vs fake image datasets using CNNs, MobileNetV2, and MLPs.  
+_Developed under academic supervision, leveraging OpenCV, PyTorch, and real-world datasets._
+
+📈 **COVID-19 Forecasting & Cluster Analysis**  
+Applied Linear Regression, SVR, ARIMA, and Facebook Prophet to predict COVID-19 cases.  
+Clustered countries using K-Means based on recovery and mortality rates.
+
+🛒 **QuickCart: Smart Retail System (IoT + AI)**  
+Smart offline retail system with dynamic pricing, bundle offers, shortest path navigation, AI object detection, and QR billing.
+
+🕊 **Bird Species Classifier**  
+Multi-class CNN built for HyperVerge Challenge using transfer learning on 200+ bird classes.
+
+---
+
+### 📊 GitHub Stats
+
+🔗 [github.com/prakul3012](https://github.com/prakulsmarty)
+
+---
+
+### 💡 Always experimenting, learning, and building with curiosity.
