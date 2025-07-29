@@ -22,7 +22,7 @@
 
 **Tools & Platforms:**  
 `Git` | `Jupyter` | `Tableau` | `Power BI` | `Docker` | `Google Colab` | `Streamlit`  
-`Azure` (basics) | `Kaleido` | `Plotly` | `Flask`
+`Azure Databricks` | `Plotly` | `Flask`
 
 **Databases:**  
 `MySQL` | `PostgreSQL` | `MongoDB`
