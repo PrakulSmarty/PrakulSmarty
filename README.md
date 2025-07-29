@@ -4,7 +4,7 @@
 🎓 **B.Tech in Artificial Intelligence & Machine Learning** from VIT Bhopal  
 💼 Passionate about building scalable ML pipelines, real-world analytics systems, and smart automation tools  
 🧠 Focused on solving challenging problems using **Data Science**, **ML/DL**, and **Generative AI**  
-📫 **Get in touch**: [prakulpatel3012@gmail.com](mailto:work.prakulpatel@gmail.com) | [LinkedIn](https://linkedin.com/in/prakulpatel)
+📫 **Get in touch**: [work.prakulpatel@gmail.com](mailto:work.prakulpatel@gmail.com) | [LinkedIn](https://linkedin.com/in/prakulpatel)
 
 ---
 
@@ -49,7 +49,7 @@ Multi-class CNN built for HyperVerge Challenge using transfer learning on 200+ b
 
 ### 📊 GitHub Stats
 
-🔗 [github.com/prakul3012](https://github.com/prakulsmarty)
+🔗 [github.com/prakulsmarty](https://github.com/prakulsmarty)
 
 ---
 
