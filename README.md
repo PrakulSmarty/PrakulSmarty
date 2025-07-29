@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Prakul Patel  
 🎯 **Data Scientist | ML Engineer | Problem Solver | Tech Enthusiast**
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning** from VIT Bhopal  
+🎓 **B.Tech in CSE with specialization in Data Science** from VIT Vellore
 💼 Passionate about building scalable ML pipelines, real-world analytics systems, and smart automation tools  
 🧠 Focused on solving challenging problems using **Data Science**, **ML/DL**, and **Generative AI**  
 📫 **Get in touch**: [work.prakulpatel@gmail.com](mailto:work.prakulpatel@gmail.com) | [LinkedIn](https://linkedin.com/in/prakulpatel)
